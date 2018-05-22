@@ -1,7 +1,7 @@
 # docker-postgres-backup
 Script to backup database from docker container
 
-Backup whill be stored into `./backups/postgres`
+Backup whill be stored into `./backups/postgres(YYYY-MM-DD)-(dayly/weekly/month)`
 
 # Who to use
 ```
